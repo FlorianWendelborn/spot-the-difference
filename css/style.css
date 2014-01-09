@@ -1,0 +1,12 @@
+html, body{
+	padding: 0px;
+	margin: 0px;
+	background-color: #000;
+	text-align: center;
+}
+canvas{
+	margin: 10px;
+}
+div{
+	color: grey;
+}
